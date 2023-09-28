@@ -18,7 +18,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "DevOverFlow",
+  title: "DevOverflow",
   description: `A community driven
    platform for asking and answering programming questions.
     Get help, share knowledge, and collaborate with developpers around the world. Explore topics in web developpment,
